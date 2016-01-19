@@ -61,9 +61,14 @@ exports._isActive = false;
  * Default values of all available options.
  */
 exports._defaults = {
-    title:  'App is running in background',
+  /*  title:  'App is running in background',
     text:   'Doing heavy tasks.',
     ticker: 'App is running in background',
+    resume: true,
+    silent: false */
+    title:  'Contact Authority',
+    text:   'Smart CRM.',
+    ticker: 'Contact Authority',
     resume: true,
     silent: false
 };
