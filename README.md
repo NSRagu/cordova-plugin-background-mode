@@ -3,6 +3,13 @@
     <a href="https://github.com/katzer/cordova-plugin-background-mode/tree/example">EXAMPLE :point_right:</a>
 </p>
 
+<h4>
+  Article for Best Tutorial
+</h4>
+<p>
+ <a href="http://qnimate.com/intel-xdk-programming-guide-to-background-execution/">Article Link</a>
+</p>
+
 Cordova Background Plug-in
 ==========================
 
